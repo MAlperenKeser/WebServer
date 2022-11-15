@@ -1,4 +1,5 @@
-# In this assignment, you will learn the basics of socket programming for TCP connections in 
+# Web Server Programming Lab
+In this assignment, you will learn the basics of socket programming for TCP connections in 
 Python: how to create a socket, bind it to a specific address and port, as well as send and receive 
 an HTTP packet. You will also learn some basics of HTTP header format. 
 You will develop a web server that handles one HTTP request at a time. Your web server should 
